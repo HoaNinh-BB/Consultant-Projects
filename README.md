@@ -14,7 +14,7 @@
 
 Under the Capital Project Delivery team, consulted using International Environmental and Social Performance Standards (e.g., IFC Sustainable Framework, ADB environmental and social safeguard) for 20+ factories and energy projects (oil & gas and renewable energies) in Asia, specialising in biodiversity.
 
-## Environmental Consultant
+### Environmental Consultant
 
 - Served as Deputy Project Manager to coordinate tasks and effectively manage 4 projects (worth $500K each project).
 
@@ -27,7 +27,7 @@ pliance and management system (Environmental & Social Management Plan (ESMP), En
 
 - Interacted directly with regulatory agencies, subcontractors, clients and their SMEs.
 
-## Analyst
+### Analyst
 
 - Acted as GIS specialist for a 2-year project of Exxon Mobil ($3M).
 
