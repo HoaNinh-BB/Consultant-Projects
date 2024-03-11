@@ -35,3 +35,6 @@ pliance and management system (Environmental & Social Management Plan (ESMP), En
 ecological surveys, including the procurement and contracting of consultant/contractor services; ensured strong a commitment to safety including following established Health and Safety protocols; and controlled task quality, reviewed and revised detailed technical data and reports.
 
 # Type of Projects
+
+[Back to home](https://hoaninh-bb.github.io/Welcome-to-my-Portfolio/)
+
