@@ -4,7 +4,6 @@
 
 # What do I do?
 
-<img src="portrait-3.jpg" alt="Hoa Ninh" width="200" align="left" style="margin-right: 20px;"/>
 
 
 - Field studies
