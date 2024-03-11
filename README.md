@@ -1,6 +1,5 @@
-# Projects
 
-## What did I do?
+# What did I do?
 
 - Field study 
 
@@ -11,11 +10,11 @@
 - Project management
 
 
-## Impact
+# Impact
 
 Under the Capital Project Delivery team, consulted using International Environmental and Social Performance Standards (e.g., IFC Sustainable Framework, ADB environmental and social safeguard) for 20+ factories and energy projects (oil & gas and renewable energies) in Asia, specialising in biodiversity.
 
-### Environmental Consultant
+## Environmental Consultant
 
 - Served as Deputy Project Manager to coordinate tasks and effectively manage 4 projects (worth $500K each project).
 
@@ -28,11 +27,11 @@ pliance and management system (Environmental & Social Management Plan (ESMP), En
 
 - Interacted directly with regulatory agencies, subcontractors, clients and their SMEs.
 
-### Analyst
+## Analyst
 
 - Acted as GIS specialist for a 2-year project of Exxon Mobil ($3M).
 
 - Environmental and social fieldwork (travel 30%): design baseline data collection, oversight environmental and
 ecological surveys, including the procurement and contracting of consultant/contractor services; ensured strong a commitment to safety including following established Health and Safety protocols; and controlled task quality, reviewed and revised detailed technical data and reports.
 
-## Type of Projects
+# Type of Projects
