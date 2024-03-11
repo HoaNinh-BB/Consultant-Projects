@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td><img src="hydropower.jpg" alt="Hydropower" width="300"/><br><em>Hydropower</em></td>
-    <td><img src="factories.jpg" alt="Factories" width="300"/><br><em>Factories</em></td>
+    <td><img src="hydrogen.jpg" alt="Factories" width="300"/><br><em>Hydrogen Energy</em></td>
   </tr>
 </table>
 
