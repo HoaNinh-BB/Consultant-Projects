@@ -28,6 +28,8 @@
 [Biodiversity Management Plan for a wind farm project (published for public by ADB)](https://www.adb.org/sites/default/files/project-documents/54211/54211-001-emp-en_40.pdf)
 
 # List of projects
+[View list of project](https://drive.google.com/file/d/1rX9Dyq_eUnq0e-ek_hX_r7RHxHPHx7bE/view?usp=sharing)
+
 
 [Back to home](https://hoaninh-bb.github.io/Welcome-to-my-Portfolio/)
 
