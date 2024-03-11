@@ -1,3 +1,4 @@
+[Back to home](https://hoaninh-bb.github.io/Welcome-to-my-Portfolio/)
 
 # What do I do?
 
@@ -8,6 +9,27 @@
 - Proposal writing
 
 - Project management
+
+# Type of Projects
+
+<table>
+  <tr>
+    <td><img src="/images/wind_farm.jpg" alt="Wind Farm" width="200"/></td>
+    <td><img src="/images/lng.jpg" alt="LNG" width="200"/></td>
+  </tr>
+  <tr>
+    <td>Wind Farm</td>
+    <td>LNG</td>
+  </tr>
+  <tr>
+    <td><img src="/images/hydropower.jpg" alt="Hydropower" width="200"/></td>
+    <td><img src="/images/factories.jpg" alt="Factories" width="200"/></td>
+  </tr>
+  <tr>
+    <td>Hydropower</td>
+    <td>Factories</td>
+  </tr>
+</table>
 
 
 # Impact
@@ -33,8 +55,6 @@ pliance and management system (Environmental & Social Management Plan (ESMP), En
 
 - Environmental and social fieldwork (travel 30%): design baseline data collection, oversight environmental and
 ecological surveys, including the procurement and contracting of consultant/contractor services; ensured strong a commitment to safety including following established Health and Safety protocols; and controlled task quality, reviewed and revised detailed technical data and reports.
-
-# Type of Projects
 
 [Back to home](https://hoaninh-bb.github.io/Welcome-to-my-Portfolio/)
 
