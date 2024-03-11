@@ -5,7 +5,7 @@
 
 - Reporting
 
-- Proposal
+- Proposal writing
 
 - Project management
 
