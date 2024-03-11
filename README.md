@@ -29,7 +29,7 @@ pliance and management system (Environmental & Social Management Plan (ESMP), En
 
 ### Analyst
 
-- Acted as GIS specialist for a 2-year project of Exxon Mobil ($3M).
+- Acted as GIS specialist for a 2-year project of [Exxon Mobil](https://corporate.exxonmobil.com/locations/vietnam/ca-voi-xanh-project-overview#Projectoverview) ($3M).
 
 - Environmental and social fieldwork (travel 30%): design baseline data collection, oversight environmental and
 ecological surveys, including the procurement and contracting of consultant/contractor services; ensured strong a commitment to safety including following established Health and Safety protocols; and controlled task quality, reviewed and revised detailed technical data and reports.
