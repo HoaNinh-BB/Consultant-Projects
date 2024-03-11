@@ -12,24 +12,13 @@
 
 # Type of Projects
 
-<table>
-  <tr>
-    <td><img src="/images/wind_farm.jpg" alt="Wind Farm" width="200"/></td>
-    <td><img src="/images/lng.jpg" alt="LNG" width="200"/></td>
-  </tr>
-  <tr>
-    <td>Wind Farm</td>
-    <td>LNG</td>
-  </tr>
-  <tr>
-    <td><img src="/images/hydropower.jpg" alt="Hydropower" width="200"/></td>
-    <td><img src="/images/factories.jpg" alt="Factories" width="200"/></td>
-  </tr>
-  <tr>
-    <td>Hydropower</td>
-    <td>Factories</td>
-  </tr>
-</table>
+
+<img src="wind_farm.jpg" alt="Wind Farm" width="400"/>
+<img src="lng.jpg" alt="LNG" width="400"/>
+
+<img src="hydropower.jpg" alt="Hydropower" width="400"/>
+<img src="factories.jpg" alt="Factories" width="400"/>
+
 
 
 # Impact
