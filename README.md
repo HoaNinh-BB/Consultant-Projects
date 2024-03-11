@@ -35,7 +35,7 @@
 </p>
 
 # Writing Samples 
-[Biodiversity Management Plan for a wind farm project (published for public by ADB)](https://www.adb. org/sites/default/files/project-documents/54211/54211-001-emp-en_40.pdf)
+[Biodiversity Management Plan for a wind farm project (published for public by ADB)](https://www.adb.org/sites/default/files/project-documents/54211/54211-001-emp-en_40.pdf)
 
 # List of projects
 
