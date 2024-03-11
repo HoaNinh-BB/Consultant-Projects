@@ -14,14 +14,17 @@
 
 <table>
   <tr>
-    <td><img src="wind_farm.jpg" alt="Wind Farm" width="300"/><br><em>Wind Farm</em></td>
-    <td><img src="lng.jpg" alt="LNG" width="300"/><br><em>LNG</em></td>
+    <td><img src="wind_farm.jpg" alt="Wind Farm" height="200" /><br><em>Wind Farm</em></td>
+    <td><img src="lng.jpg" alt="LNG" height="200" /><br><em>LNG</em></td>
   </tr>
   <tr>
-    <td><img src="hydropower.jpg" alt="Hydropower" width="300"/><br><em>Hydropower</em></td>
-    <td><img src="hydrogen.jpg" alt="Factories" width="300"/><br><em>Hydrogen Energy</em></td>
+    <td><img src="hydropower.jpg" alt="Hydropower" height="200" /><br><em>Hydropower</em></td>
+    <td><img src="hydrogen.jpg" alt="Hydrogen energy" height="200" /><br><em>Hydrogen Energy</em></td>
   </tr>
 </table>
+
+
+
 
 
 # Writing Samples 
